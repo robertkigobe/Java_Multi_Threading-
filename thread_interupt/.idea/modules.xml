@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/thread-interupt.iml" filepath="$PROJECT_DIR$/thread-interupt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_interupt.iml" filepath="$PROJECT_DIR$/thread_interupt.iml" />
     </modules>
   </component>
 </project>
