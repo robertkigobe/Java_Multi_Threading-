@@ -2,7 +2,7 @@
 
 import java.math.BigInteger;
 /*
-thread to utilize interupt in the main thread
+* explicityly handle thread interrupt call in the blocking thread
 * */
 public class Main2 {
 

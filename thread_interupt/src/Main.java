@@ -1,3 +1,7 @@
+/*
+* the thread interupt is able to terminate a thread
+* */
+
 public class Main {
 
         public static void main(String[] args){
